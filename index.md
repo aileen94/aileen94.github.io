@@ -9,3 +9,11 @@ Under the surface however he is a character which doesn't had an own life for hi
 * loved his childhood friend Lilly Evens
 * after the school he joined the death eathers
 * is one of the only death eather who can summon a patronus
+
+
+ > ´You are here to learn the subtle science and exact art of potion-making.
+ > As there is little foolish wand-waving here, many of you will hardly believe this is magic.
+ > I don’t expect you will really understand the beauty of the softly simmering cauldron with its shimmering fumes,
+ > the delicate power of liquids that creep through human veins, bewitching the mind, ensnaring the senses. . .
+ > I can teach you how to bottle fame, brew glory, even stopper death — 
+ > if you aren’t as big a bunch of dunderheads as I usually have to teach.'
