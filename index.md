@@ -1,6 +1,6 @@
 # My favorite Character Severus Snape
 
-The character Severus Snape is a special character in the Harry Potter series. For once, because he seemsthe bad guy.
+The character Severus Snape is a special character in the Harry Potter series. For once, because he seems the bad guy.
 Under the surface however he is a character which doesn't had an own life for himself.
 
 ## Character traits
@@ -18,4 +18,4 @@ Under the surface however he is a character which doesn't had an own life for hi
  > I can teach you how to bottle fame, brew glory, even stopper death — 
  > if you aren’t as big a bunch of dunderheads as I usually have to teach.'
  
- <img src="https://upload.wikimedia.org/wikipedia/commons/a/a3/Severus_Snape.jpg" />
+<img src= "https://upload.wikimedia.org/wikipedia/commons/a/a3/Severus_Snape.jpg" />
