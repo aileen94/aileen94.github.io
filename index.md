@@ -19,4 +19,4 @@ Under the surface however he is a character which doesn't had an own life for hi
  > if you aren’t as big a bunch of dunderheads as I usually have to teach.'
  
  
- <img src="https://upload.wikimedia.org/wikipedia/commons/6/67/Severus_Snape_fanart_-_Cor-Sa.jpg"/>
+ <img src="https://upload.wikimedia.org/wikipedia/commons/6/67/Severus_Snape_fanart_-_Cor-Sa.jpg" />
